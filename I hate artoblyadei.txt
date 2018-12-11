@@ -1,0 +1,2 @@
+cout << Slava Ucraine << endl;
+return 0;
