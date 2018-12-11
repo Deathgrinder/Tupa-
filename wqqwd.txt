@@ -1,0 +1,15 @@
+Pure HTML 5 RTC video chat system
+Group (conference) video chat
+Chat Roulette mode
+PHP server side signaling system included
+No additional software nor accounts needed
+No DB needed
+Mobile friendly responsive interface
+Facebook authorization support
+Wordpress authorization support
+Extendable authorization system
+Created with Bootstrap 3
+Ability to define chat rooms
+Ability to define callable operators
+Desktop sharing2
+desktop sharing is available only for google chrome using an extension, over https, and in view-only mode
